@@ -2,7 +2,7 @@
 
 Turns [hyper](https://hyper.is/) green.
 
-<img src="http://naver.me/5igwCVQA"/>
+![](https://github.com/bsj1048/OSS-hyper-extension/blob/master/hypergreen/shot.PNG)
 
 ## How to use
 
