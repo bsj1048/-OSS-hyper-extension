@@ -2,7 +2,7 @@
 
 Turns [hyper](https://hyper.is/) green.
 
-<img src="./shot.jpg"/>
+<img src="shot.jpg"/>
 
 ## How to use
 
